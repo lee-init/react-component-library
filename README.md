@@ -3,6 +3,7 @@ React component library for React applications using TypeScript and Vite
 
 ## Description
 This component library is can be used with React applications that use TypeScript.
+Library also comes with Storybook - Telemetry is turned off by default.
 
 ## Installation
 To install, clone the repo to your project and run `npm install`
