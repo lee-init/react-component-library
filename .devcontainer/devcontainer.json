@@ -1,7 +1,7 @@
 {
   "name": "react-component-library",
   "dockerComposeFile": "./docker-compose.yml",
-  "service": "app",
+  "service": "lib",
   "workspaceFolder": "/workspaces/react-component-library",
   "customizations": {
     "vscode": {

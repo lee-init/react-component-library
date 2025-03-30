@@ -1,5 +1,5 @@
 services:
-  app:
+  lib:
     image: mcr.microsoft.com/devcontainers/typescript-node
     volumes:
       - ../:/workspaces/react-component-library
