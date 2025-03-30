@@ -1,5 +1,5 @@
 {
-  "name": "react-component-library",
+  "name": "@lee-init/react-component-library",
   "version": "0.0.1",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -13,6 +13,13 @@
   "author": "",
   "license": "ISC",
   "description": "React component library",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lee-init/react-component-library.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/lee-init"
+  },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^28.0.3",
     "@rollup/plugin-node-resolve": "^16.0.1",
