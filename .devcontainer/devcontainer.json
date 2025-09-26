@@ -10,5 +10,5 @@
       ]
     }
   },
-  "postCreateCommand": "sudo chown -R node /workspace"
+  "postCreateCommand": "sudo chown -R node /workspaces"
 }
