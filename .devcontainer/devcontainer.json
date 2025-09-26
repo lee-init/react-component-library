@@ -1,0 +1,14 @@
+{
+  "name": "react-component-library",
+  "dockerComposeFile": "./docker-compose.yml",
+  "service": "lib",
+  "workspaceFolder": "/workspaces/react-component-library",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "dsznajder.es7-react-js-snippets"
+      ]
+    }
+  },
+  "postCreateCommand": "sudo chown -R node /workspace"
+}
